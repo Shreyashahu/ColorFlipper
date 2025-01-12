@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    width: 50%;
+    background-color: white;
+    margin-left: 420px;
+}
+
+.btns{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.btns button{
+    margin: 3px;
+    padding: 2px;
+    font-size: 20px;
+}
+
+#clr1{
+    color: white;
+    background-color: blue;
+    padding: 7px;
+}
+
+#clr2{
+    background-color: yellow;
+    padding: 7px;
+}
+
+#clr3{
+    color: white;
+    background-color: green;
+    padding: 7px;
+}
+
+#clr4{
+    color: white;
+    background-color: black;
+    padding: 7px;
+}
+
+#clr5{
+    color: white;
+    background-color: red;
+    padding: 7px;
+}
